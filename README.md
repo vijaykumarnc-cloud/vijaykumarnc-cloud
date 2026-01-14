@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm passionate about building, automating, and opt
 ## 🌟 About Me
 
 * 🎓 Background in **Aeronautical Engineering**
-* 💻 3+ years of experience as a **Network/System Administrator**
+* 💻 6+ years of experience as a **Network/System Administrator**
 * ☁️ Actively transitioning into **Cloud & DevOps Engineering**
 * 🧠 Strong believer in **continuous learning & automation**
 * 📈 Focused on building **real-world, hands-on projects**
