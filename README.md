@@ -4,10 +4,9 @@
 
 
 
+ # 👋 Hi, I'm Vijay Kumar N C
 
-                                                       # 👋 Hi, I'm Vijay Kumar N C
-
-                                        🚀 **Tech Enthusiast | Aspiring Cloud & DevOps Engineer**
+🚀 **Tech Enthusiast | Aspiring Cloud & DevOps Engineer**
 
 Welcome to my GitHub profile! I'm passionate about building, automating, and optimizing infrastructure using modern **Cloud** and **DevOps** practices. I enjoy learning by doing — experimenting with tools, breaking things, and fixing them better 😄
 
